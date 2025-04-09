@@ -1,6 +1,6 @@
 {
   "name": "@bimser/dts-bundle",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "description": "Export TypeScript .d.ts files as an external module definition",
   "keywords": [
     "typescript",
