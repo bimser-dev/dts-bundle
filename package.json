@@ -1,6 +1,6 @@
 {
   "name": "@bimser/dts-bundle",
-  "version": "0.7.7",
+  "version": "0.7.8",
   "description": "Export TypeScript .d.ts files as an external module definition",
   "keywords": [
     "typescript",
@@ -38,7 +38,6 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "@types/detect-indent": "^6.0.3",
     "@types/glob": "5.0.30",
     "@types/mkdirp": "0.3.29",
     "@types/node": "8.0.0",
