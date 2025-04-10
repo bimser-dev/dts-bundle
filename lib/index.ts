@@ -7,7 +7,7 @@ import * as util from 'util';
 import * as assert from 'assert';
 import * as glob from 'glob';
 import * as mkdirp from 'mkdirp';
-import detectIndent from 'detect-indent';
+import * as detectIndent from 'detect-indent';
 
 let pkg = require('../package');
 
